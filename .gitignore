@@ -1,0 +1,28 @@
+# Maven specific
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE specific
+.idea/
+.vscode/
+
+# Compiled class file
+*.class
+
+# Log files
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Maven files
+mvnw
+mvnw.cmd
+.mvn/
+
+# Spring Boot specific
+spring-boot-starter-*/target/
+spring-boot-starter-*/bin/
+spring-boot-starter-*/build/
